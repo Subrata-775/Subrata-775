@@ -20,12 +20,16 @@
   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 <h3 align="center">📫 Reach Me</h3>
+
 <p align="center">
-  <a href="mailto:subratajana7735@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:subratajana7735@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/subrata-jana-5b442032a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-| [LinkedIn](https://www.linkedin.com/in/subrata-jana-5b442032a/)  
+
 
 - 🌱 Currently learning **Advanced DSA in Java & Full-Stack Development**
 
