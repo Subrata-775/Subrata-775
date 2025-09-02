@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm subrata Jana</h1>
 <h3 align="center">A passionate Full-stack Developer,Data Analyst Also DSA(java) from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subrata-775&label=Profile%20views&color=0e75b6&style=flat" alt="subrata-775" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=subrata-775&label=Profile%20views&color=0e75b6&style=flat" alt="subrata-775" /> </p>
+<p align="left">
 
 - “📫 How to reach me:<a href="subratajana7735@gmail.com">Email</a> && <a href="https://www.linkedin.com/in/subrata-jana-5b442032a/">Linkedin</a>
 
