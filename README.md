@@ -1,3 +1,11 @@
+
+<p align="center">
+  <a href="https://deepdey.tech" target="_blank">
+    <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" 
+         alt="Banner" 
+         width="100%" />
+  </a>
+</p>
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Subrata Jana</h1>
 <h3 align="center">💻 Full-Stack Developer | 📊 Data Analyst | ⚡ DSA (Java) Enthusiast from India</h3>
