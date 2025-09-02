@@ -22,20 +22,40 @@
 
 ---
 
-<!-- Social Links -->
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/subratajana7735" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40"/></a>
-<a href="https://linkedin.com/in/subrata-jana-5b442032a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
-<a href="https://fb.com/subrata jana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="40"/></a>
-<a href="https://instagram.com/itz_me_subrata10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/></a>
-<a href="https://www.youtube.com/c/devwithsubrata" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" height="40"/></a>
-<a href="https://www.hackerrank.com/subratajana7735" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" height="40"/></a>
-<a href="https://www.leetcode.com/subrata7735" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="40"/></a>
-<a href="https://discord.gg/subrata_jana7735" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40"/></a>
+<!-- Social Links --
+<!-- Contact Section -->
+<h3 align="center">📬 Contact with Me</h3>
+
+<p align="center">
+  <a href="mailto:subratajana7735@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/subrata-jana-5b442032a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/subratajana7735" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/itz_me_subrata10" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/subrata jana" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/c/devwithsubrata" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.hackerrank.com/subratajana7735" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/subrata7735" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://discord.gg/subrata_jana7735" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
----
 
 <!-- Languages & Tools -->
 <h3 align="left">🛠️ Languages and Tools:</h3>
