@@ -19,7 +19,13 @@
 <p align="left">
   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
-- 📫 Reach me via: [Email](mailto:subratajana7735@gmail.com) | [LinkedIn](https://www.linkedin.com/in/subrata-jana-5b442032a/)  
+<h3 align="center">📫 Reach Me</h3>
+<p align="center">
+  <a href="mailto:subratajana7735@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+| [LinkedIn](https://www.linkedin.com/in/subrata-jana-5b442032a/)  
 
 - 🌱 Currently learning **Advanced DSA in Java & Full-Stack Development**
 
