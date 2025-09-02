@@ -42,7 +42,7 @@
   <a href="https://fb.com/subrata jana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/c/devwithsubrata" target="_blank">
+  <a href="https://www.youtube.com/@devwithsubrata/shorts" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.hackerrank.com/subratajana7735" target="_blank">
