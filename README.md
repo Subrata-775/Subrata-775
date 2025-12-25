@@ -85,14 +85,28 @@
 
 <!-- GitHub Stats -->
 <h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata-775&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=subrata-775&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180"/>
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=subrata-775&show_icons=true&layout=compact&theme=radical"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=subrata-775&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subrata-775&theme=radical" alt="GitHub Streak" height="200"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=subrata-775&theme=radical&v=1"
+    alt="GitHub Streak"
+    height="200"
+  />
 </p>
+
+
 
 ---
 
