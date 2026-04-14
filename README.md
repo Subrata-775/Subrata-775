@@ -99,13 +99,12 @@
 </p>
 
 <p align="center">
-  
-   <img src="https://github-readme-stats.vercel.app/api?username=subrata-775&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+  <img
+    src="https://streak-stats.demolab.com/?user=subrata-775&theme=radical&include_all_commits=true&cache_seconds=300"
     alt="GitHub Streak"
     height="200"
-   />
+  />
 </p>
-
 
 
 ---
