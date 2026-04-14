@@ -100,7 +100,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=subrata-775&theme=radical&include_all_commits=true&cache_seconds=1800"
+   <img src="https://github-readme-stats.vercel.app/api?username=subrata-775&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     alt="GitHub Streak"
     height="200"
   />
