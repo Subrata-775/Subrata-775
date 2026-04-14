@@ -100,7 +100,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=subrata-775&theme=radical&v=1"
+    src="https://streak-stats.demolab.com/?user=subrata-775&theme=radical&include_all_commits=true&cache_seconds=1800"
     alt="GitHub Streak"
     height="200"
   />
